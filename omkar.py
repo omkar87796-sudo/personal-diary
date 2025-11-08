@@ -1,3 +1,0 @@
-#printing
-
-print("Hello World")
